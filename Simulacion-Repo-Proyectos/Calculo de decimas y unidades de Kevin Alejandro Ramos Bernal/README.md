@@ -1,4 +1,4 @@
-# Separador de Decenas y Unidades
+# Separador de Decenas y Unidadesh
 
 Aplicación web sencilla desarrollada con **HTML, CSS y JavaScript** que permite introducir un número de **máximo dos cifras** y muestra por separado sus **decenas y unidades**.
 
