@@ -1,4 +1,4 @@
-# Calculadora de Tortilla de Papas
+# Calculadora de Tortilla de Papitas
 
 Aplicación web sencilla desarrollada con **HTML, CSS y JavaScript** que permite calcular automáticamente las cantidades aproximadas de ingredientes necesarias para preparar una **tortilla de patatas (con o sin cebolla)** en función del número de comensales.
 
