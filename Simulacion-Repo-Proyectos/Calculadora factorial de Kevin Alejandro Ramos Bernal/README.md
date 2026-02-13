@@ -1,4 +1,4 @@
-# Entrada y Procesamiento de Números
+# Entrada y Procesamiento de Númeritos
 
 Aplicación web sencilla desarrollada con **HTML, CSS y JavaScript** que permite al usuario ingresar un **número no negativo** y procesarlo para mostrar resultados dinámicos en pantalla.
 
